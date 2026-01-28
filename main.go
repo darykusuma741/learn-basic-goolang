@@ -1,7 +1,9 @@
 package main
 
-import "learn-golang/pkg/data_type"
+import (
+	"learn-golang/pkg/conditionals"
+)
 
 func main() {
-	data_type.DataType()
+	conditionals.ConditionalsExample()
 }
