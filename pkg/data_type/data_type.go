@@ -31,6 +31,10 @@ func DataType() {
 	var age int = 25
 	fmt.Println("Age:", age)
 
+	// Unsigned integer
+	var positiveNumber uint = 100
+	fmt.Println("Positive Number:", positiveNumber)
+
 	// Float
 	var height float64 = 175.5
 	fmt.Println("Height:", height)
