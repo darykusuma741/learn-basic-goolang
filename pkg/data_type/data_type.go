@@ -19,6 +19,10 @@ func (p Person) Greet() string {
 }
 
 func DataType() {
+	// Const
+	const pi float64 = 3.14
+	fmt.Println("Pi:", pi)
+
 	// String
 	var name string = "Andi"
 	fmt.Println("Name:", name)
