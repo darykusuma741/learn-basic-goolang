@@ -1,9 +1,7 @@
 package main
 
-import (
-	hello_world "learn-golang/pkg"
-)
+import "learn-golang/pkg/data_type"
 
 func main() {
-	hello_world.SayHello()
+	data_type.DataType()
 }

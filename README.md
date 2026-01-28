@@ -2,46 +2,46 @@
 
 A learning repository for Go (Golang) that contains notes, code examples, and small experiments to understand core concepts, syntax, and best practices.
 
-Repository ini dibuat sebagai dokumentasi proses belajar Go (Golang), mulai dari dasar hingga eksplorasi konsep yang lebih lanjut.
+This repository is created as a documentation of the learning process for Go, from basic concepts to more advanced explorations.
 
 ## Purpose
 
-- Mempelajari fundamental Go
-- Memahami struktur project Go
-- Eksperimen dengan fitur-fitur Go
-- Menjadi referensi pribadi sekaligus portfolio
+- Learn the fundamentals of Go
+- Understand Go project structure
+- Experiment with Go features
+- Serve as a personal reference and portfolio
 
 ## Requirements
 
-- Go (Golang) sudah ter-install  
+- Go (Golang) installed  
   👉 https://go.dev/dl/
 
 ## Getting Started
 
 ### Initialize Project
 
-Untuk membuat project Go baru:
+To create a new Go project:
 
 ```bash
 go mod init learn-golang
 ```
 
-### Cara Running Project
+### Running the Project
 
-Untuk menjalankan aplikasi:
+To run the application:
 
 ```bash
 go run main.go
 ```
 
-### Cara Build Project
+### Build the Project
 
-Untuk melakukan build aplikasi:
+To build the application:
 
 ```bash
-go run main.go
+go build
 ```
 
 ### Notes
 
-Repository ini akan terus berkembang seiring proses belajar dan eksplorasi Go.
+This repository will continue to grow as the learning process and exploration of Go progress.
